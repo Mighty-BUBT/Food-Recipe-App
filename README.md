@@ -4,7 +4,7 @@
 
 **Team Name:** Mighty BUBT  
 
-## Team Members
+**Team Members**
 
 | Name                          | ID           | Role                     |
 |-------------------------------|--------------|--------------------------|
