@@ -3,12 +3,16 @@
 ## Team Description
 
 **Team Name:** Mighty BUBT  
-**Team Members:**
-- Jannatul Ferdous Riya (ID: 22234103135)
-- MD Noor Uddin Yousuf Shanto (ID: 22234103136)
-- MD Saidul Islam (ID: 22234103142)
-- Mahmuda Tahira (ID: 22234103150)
-- Deep Sarkar (ID: 22234103292)
+
+## Team Members
+
+| Name                          | ID           | Role                     |
+|-------------------------------|--------------|--------------------------|
+| Jannatul Ferdous Riya         | 22234103135  | Project Manager          |
+| MD Noor Uddin Yousuf Shanto   | 22234103136  | UI/UX Designer           |
+| MD Saidul Islam               | 22234103142  | Software Developer       |
+| Mahmuda Tahira                | 22234103150  | Tester                   |
+| Deep Sarkar                   | 22234103292  | Database Administrator   |
 
 ## Problem Statement
 Cooking is an essential skill, but many people struggle to find recipes that match their taste, available ingredients, and dietary restrictions. Existing solutions lack customization and require users to browse multiple sources. The **Food Recipe App** is designed to simplify the cooking experience by offering personalized recipes, step-by-step cooking guidance, and ingredient suggestions.
